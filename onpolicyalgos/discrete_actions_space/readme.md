@@ -1,4 +1,4 @@
-# Code for ICML 2019 Submission: Discretizing Continuous Action Space for On-Policy Optimization
+# Code for AAAI 2020 paper: Discretizing Continuous Action Space for On-Policy Optimization
 
 This code base contains all instructions and codes necessary to reproduce the results in the paper. We provide TRPO with Gaussian, Gaussian + tanh, Discrete, Ordinal and Beta policy. We also provide PPO with Gaussian, Gaussian + tanh, Discrete, Ordinal and Beta policy. Finally, we provide ACKTR with Gaussian and Discrete policy
 
